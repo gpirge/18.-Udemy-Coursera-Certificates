@@ -1,1 +1,4 @@
 
+Course Description
+
+Have you ever wondered how to properly prepare for a Machine Learning Interview? Of course you have or you likely wouldn't be reading this right now! In this course, students will prepare to answer 15 common Machine Learning (ML) interview questions for a data scientist role in Python. These questions will revolve around 7 important topics: data preprocessing, data visualization, supervised learning, unsupervised learning, model ensembling, model selection, and model evaluation. By the end of the course, the students will possess both the required theoretical background and the ability to develop Python code to successfully answer these 15 questions. The coding examples will be mainly based on the scikit-learn package given its ease-of-use and ability to cover the most important ML techniques in the Python language.
